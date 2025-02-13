@@ -1,3 +1,4 @@
+//Test Creator: Philip Dushie
 const primeCheck = require('./primeCheck');
 
 test('tests if 356 is prime', ()=>{

@@ -1,3 +1,4 @@
+//Test Creator: Philip Dushie
 const average = require('./average');
 
 test('average 1,2,3 to equal 2', ()=>{
